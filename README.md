@@ -76,3 +76,13 @@ Wait and Continue
 ## Workflow Screenshot
 
 ![AI Lead Enrichment and Qualification System](screenshots/system-overview.png)
+
+
+## Sample Data
+
+This repository includes fictional sample data for testing and demonstration:
+
+- [View sample input](sample-data/sample-input.json)
+- [View sample output](sample-data/sample-output.json)
+
+The sample names, businesses, email addresses, and other details are fictional. No real lead or customer information is included.
