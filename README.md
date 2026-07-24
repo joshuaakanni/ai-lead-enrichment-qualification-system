@@ -70,3 +70,9 @@ Update Google Sheets
 Mark Lead as Successful
       ↓
 Wait and Continue
+
+```
+
+## Workflow Screenshot
+
+![AI Lead Enrichment and Qualification System](screenshots/system-overview.png)
